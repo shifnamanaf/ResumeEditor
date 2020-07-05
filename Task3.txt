@@ -1,0 +1,8 @@
+What are various Machine Learning models and Data mining patterns possible for analyzing the behavior of the users in a multimedia content sharing platform?
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+machine learning methods such as deep neural networks and KNN algorithms etc.. can be used for analyzing user behaviour.
+Every person is different and so is their behavior.Unsupervised learning like K-means clustering can be used to cluster users according to their behaviour.
+The process of identifying user behavior consisting of data collection, query parser, pre-processing and pattern analysis that will help us to analyze and predict the user behavior in short time.
